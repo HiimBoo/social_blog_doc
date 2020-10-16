@@ -70,6 +70,6 @@ Let's get started:
 * [User can log in](/doc/server/08_login.md)
 * [Blog APIs](/doc/server/09_blog_apis.md)
 * [Review APIs](/doc/server/10_review_apis.md)
-* [Reaction API](/doc/server/10_review_apis.md)
+* [Reaction API](/doc/server/11_reaction_api.md)
 * [User APIs](/doc/server/12_user_apis.md)
 * [Friendship APIs](/doc/server/13_friendship_apis.md)
